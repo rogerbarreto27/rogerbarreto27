@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Olá, me chamo Rogério Barreto, tenho 27 anos, sou casado a quase 4 anos, tenho 1 filho e ele se chama Luan, eu nasci no Rio de Janeiro, moro em São Paulo, atualmente trabalho como projetista na empresa planservi, estou estudando programação com a DevClub com propósito de ter renda melhor e um trabalho mais flexével para ter mais tempo com minha família.
+Meu nome é Rogério Barreto, tenho 27 anos, sou casado a quase 4 anos, tenho 1 filho e ele se chama Luan, eu nasci no Rio de Janeiro, moro em São Paulo, atualmente trabalho como projetista na empresa planservi, estou estudando programação com a DevClub com propósito de ter renda melhor e um trabalho mais flexével para ter mais tempo com minha família.
 <br>
 <br>
 <br>
